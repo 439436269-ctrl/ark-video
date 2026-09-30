@@ -1,0 +1,38 @@
+{
+  "name": "@vfvrpq/ark-video",
+  "version": "1.0.0",
+  "description": "火山方舟 Seedance 文生视频零依赖命令行：单条视频的创建/查询/用量/估价原子命令（create、task、usage、price），不含批量编排",
+  "license": "MIT",
+  "author": "vfvrpq",
+  "type": "commonjs",
+  "bin": {
+    "ark-video": "ark_video.js"
+  },
+  "files": [
+    "ark_video.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "seedance",
+    "doubao",
+    "volcengine",
+    "ark",
+    "video",
+    "t2v",
+    "text-to-video",
+    "video-generation",
+    "cli"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/439436269-ctrl/ark-video.git"
+  },
+  "bugs": {
+    "url": "https://github.com/439436269-ctrl/ark-video/issues"
+  },
+  "homepage": "https://github.com/439436269-ctrl/ark-video#readme"
+}
